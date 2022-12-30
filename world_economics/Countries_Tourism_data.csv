@@ -1,0 +1,111 @@
+country,annual_income,corruption_index,COL_country,COL_cost_index,COL_monthly_income,COL_purchasing_power_index,richest_country,richest_con_gdp_per_capita,tourism_country,tourists_in_millions,tourism_receipts_in_billions,tourism_receipts_per_tourist,tourism_percentage_of_gdp,unemployment_country,unemployment_rate
+Denmark,"$68,110",12,Bermuda,157.6,"$9,712",105.0,Luxembourg,134754,France,117.1,35.96,307,1.2,Marshall Islands,36.0
+Finland,"$53,660",12,Switzerland,142.4,"$7,530",90.1,Singapore,116486,Mexico,51.1,11.45,224,0.9,South Africa,33.6
+New Zealand,"$45,340",12,Cayman Islands,137.9,"$5,281",65.2,Ireland,106456,United States,45.0,84.21,1870,0.4,Kiribati,30.6
+Norway,"$84,090",15,Israel,130.2,"$4,130",54.1,Qatar,93521,Italy,38.4,20.46,533,1.0,Kosovo,30.5
+Singapore,"$64,010",15,Iceland,128.0,"$5,368",71.5,Bermuda,85192,Hungary,31.6,4.22,133,2.3,American Samoa,29.8
+Sweden,"$58,890",15,New Caledonia,125.8,"$1,101",14.9,Norway,79201,Croatia,21.6,5.63,261,8.3,Djibouti,28.4
+Switzerland,"$90,360",16,Turks and Caicos Islands,124.6,"$1,967",26.9,Switzerland,77324,Turkey,16.0,13.77,862,1.7,Eswatini,25.8
+Netherlands,"$56,370",18,Norway,124.6,"$7,008",95.9,Macao,73802,Austria,15.1,15.36,1018,3.2,Greece,14.8
+Luxembourg,"$81,110",19,Barbados,121.5,"$1,393",19.5,United States,69288,Germany,12.4,58.37,4689,1.4,Spain,14.7
+Germany,"$51,040",20,Denmark,119.9,"$5,676",80.6,Brunei,66620,Virgin Islands,8.6,0.69,80,16.3,Brazil,14.4
+United Kingdom,"$45,380",22,Ireland,119.8,"$6,210",88.3,Hong Kong,65973,United Arab Emirates,8.1,24.62,3045,6.9,Turkey,13.4
+Hong Kong,"$54,450",24,Australia,118.0,"$4,730",68.3,Denmark,64651,Greece,7.4,6.19,836,2.9,Italy,9.8
+Austria,"$52,210",26,New Zealand,117.2,"$3,778",54.9,Netherlands,63767,Netherlands,7.3,10.93,1504,1.1,Nigeria,9.8
+Canada,"$48,310",26,Luxembourg,113.1,"$6,759",101.8,Sweden,59324,Russia,6.4,4.96,780,0.3,Egypt,9.3
+Estonia,"$25,970",26,Sweden,109.3,"$4,908",76.5,Belgium,58931,Macao,5.9,9.44,1601,31.6,Ukraine,8.9
+Iceland,"$64,410",26,Finland,108.0,"$4,472",70.6,Austria,58427,Romania,5.0,1.61,321,0.6,Sweden,8.7
+Ireland,"$74,520",26,United Kingdom,107.9,"$3,782",59.7,Germany,57928,Bulgaria,5.0,1.79,360,2.2,France,8.1
+Australia,"$56,760",27,Canada,105.6,"$4,026",64.9,Iceland,57646,Malaysia,4.3,3.39,781,0.9,Canada,7.5
+Belgium,"$50,510",27,Japan,101.9,"$3,552",59.4,Australia,55807,Portugal,4.2,10.52,2500,4.2,Saudi Arabia,7.4
+Japan,"$42,620",27,United States,100.0,"$5,869",100.0,Finland,55007,Japan,4.1,11.40,2769,0.2,Bermuda,7.0
+France,"$43,880",29,Netherlands,99.0,"$4,698",80.8,Canada,52085,Indonesia,4.1,3.53,872,0.3,Ireland,6.6
+United Arab Emirates,"$39,410",31,Belgium,97.0,"$4,209",74.0,France,50729,South Africa,3.9,2.72,699,0.6,Ecuador,6.4
+United States,"$70,430",33,France,96.2,"$3,657",64.7,United Kingdom,49675,Puerto Rico,3.9,2.92,752,2.8,India,6.0
+Qatar,"$57,120",37,Austria,95.9,"$4,351",77.3,Saudi Arabia,49551,Vietnam,3.8,3.23,842,0.9,United States,5.5
+Portugal,"$23,730",38,Germany,92.3,"$4,253",78.5,Malta,47714,Belarus,3.6,0.54,151,0.8,Sri Lanka,5.4
+South Korea,"$34,980",38,South Korea,87.0,"$2,915",57.1,South Korea,46918,Hong Kong,3.6,32.70,9161,8.9,Hong Kong,5.3
+Spain,"$29,740",39,Italy,86.2,"$2,976",58.8,New Zealand,46420,Ukraine,3.4,0.69,203,0.3,Switzerland,5.3
+Israel,"$49,560",41,Spain,82.9,"$2,478",50.9,Italy,45936,Morocco,2.8,4.51,1611,3.4,Bangladesh,5.2
+Italy,"$35,710",44,Hong Kong,77.9,"$4,538",99.2,Bahrain,45411,Albania,2.7,1.24,468,6.8,Luxembourg,5.2
+Poland,"$16,670",44,Portugal,76.4,"$1,978",44.1,Czechia,44261,Belgium,2.6,7.45,2882,1.2,Romania,5.2
+Saudi Arabia,"$22,270",47,Malta,75.7,"$2,547",57.3,Israel,43722,South Korea,2.5,11.78,4675,0.7,Australia,5.1
+Greece,"$20,140",51,Singapore,75.0,"$5,334",121.1,Slovenia,43625,Australia,1.8,26.23,14351,1.7,Norway,5.0
+Malaysia,"$10,930",52,Macao,75.0,"$3,894",88.5,Japan,42940,Philippines,1.5,2.77,1867,0.7,Russia,5.0
+China,"$11,890",55,Greece,74.7,"$1,678",38.3,Lithuania,42665,Norway,1.4,2.20,1572,0.5,China,4.8
+Romania,"$14,170",55,Estonia,74.0,"$2,164",49.8,Estonia,42192,Cambodia,1.3,1.12,857,4.2,Denmark,4.8
+South Africa,"$6,440",56,United Arab Emirates,72.3,"$3,284",77.3,Spain,40775,Qatar,0.6,14.32,24601,8.0,Malaysia,4.6
+India,"$2,170",60,Qatar,71.4,"$4,760",113.6,Poland,37503,Luxembourg,0.5,4.45,8484,5.1,United Kingdom,4.5
+Vietnam,"$3,560",61,Czechia,68.1,"$2,006",50.2,Hungary,36753,Ethiopia,0.5,2.28,4405,2.1,Indonesia,4.4
+Argentina,"$10,050",62,Iran,67.6,$281,7.1,Portugal,35888,Serbia,0.4,1.42,3188,2.3,Mexico,4.4
+Brazil,"$7,720",62,China,63.2,$991,26.7,Romania,35414,Bermuda,0.1,0.09,1829,1.3,Pakistan,4.4
+Indonesia,"$4,140",62,Chile,62.9,"$1,250",33.8,Latvia,34469,Moldova,0.0,0.35,12207,2.6,Netherlands,4.0
+Turkey,"$9,830",62,Croatia,60.8,"$1,429",40.1,Bahamas,34108,,,,,,Taiwan,3.7
+Sri Lanka,"$3,820",63,Haiti,60.1,$118,3.4,Croatia,33801,,,,,,Singapore,3.6
+Ecuador,"$5,930",64,Costa Rica,57.7,"$1,026",30.3,Russia,33361,,,,,,South Korea,3.5
+Thailand,"$7,260",65,Hungary,57.3,"$1,478",44.0,Slovakia,33010,,,,,,Germany,3.5
+El Salvador,"$4,140",66,Equatorial Guinea,55.9,$484,14.8,Panama,31680,,,,,,Poland,3.4
+Sierra Leone,$510,66,Mexico,54.7,$782,24.4,Cyprus,31509,,,,,,Macao,3.0
+Algeria,"$3,660",67,Albania,52.0,$509,16.7,Greece,31295,,,,,,Japan,2.8
+Egypt,"$3,510",67,Ecuador,51.9,$494,16.2,Turkey,30472,,,,,,Philippines,2.4
+Nepal,"$1,230",67,Serbia,51.2,$703,23.4,Oman,30422,,,,,,Vietnam,2.2
+Philippines,"$3,640",67,Montenegro,51.2,$775,25.8,,,,,,,,Principality of Monaco,2.0
+Zambia,"$1,040",67,Poland,51.1,"$1,389",46.3,,,,,,,,Bahrain,1.9
+Eswatini,"$3,680",68,Bahrain,49.0,"$1,661",57.7,,,,,,,,Chad,1.9
+Ukraine,"$4,120",68,Brunei,48.9,"$2,626",91.4,,,,,,,,Burundi,1.8
+Gabon,"$7,100",69,Bulgaria,47.5,$893,32.0,,,,,,,,Benin,1.6
+Mexico,"$9,380",69,Romania,47.4,"$1,181",42.4,,,,,,,,Thailand,1.4
+Niger,$590,69,South Africa,47.1,$537,19.4,,,,,,,,Laos,1.3
+Papua New Guinea,"$2,790",69,Brazil,46.9,$643,23.4,,,,,,,,Guernsey,1.2
+Azerbaijan,"$4,880",70,Morocco,45.0,$279,10.6,,,,,,,,Isle of Man,1.1
+Bolivia,"$3,360",70,Saudi Arabia,44.5,"$1,856",71.1,,,,,,,,Gibraltar,1.0
+Djibouti,"$3,300",70,Mauritius,43.3,$905,35.6,,,,,,,,Niger,0.8
+Dominican Republic,"$8,220",70,Ivory Coast,42.7,$204,8.2,,,,,,,,Cambodia,0.6
+Kenya,"$2,010",70,Kenya,42.3,$168,6.7,,,,,,,,Qatar,0.3
+Laos,"$2,520",70,Cameroon,41.9,$133,5.4,,,,,,,,Cocos (Keeling) Islands,0.1
+Paraguay,"$5,340",70,Timor-Leste,41.9,$162,6.6,,,,,,,,,
+Togo,$980,70,Colombia,41.9,$513,20.9,,,,,,,,,
+Angola,"$1,770",71,Nigeria,41.8,$175,7.1,,,,,,,,,
+Liberia,$620,71,Kosovo,41.0,$414,17.2,,,,,,,,,
+Mali,$870,71,Philippines,40.9,$303,12.6,,,,,,,,,
+Russia,"$11,600",71,Lesotho,39.3,$106,4.6,,,,,,,,,
+Burma,"$1,140",72,Bangladesh,39.0,$218,9.5,,,,,,,,,
+Mauritania,"$1,730",72,Malaysia,38.8,$911,40.0,,,,,,,,,
+Pakistan,"$1,500",72,Paraguay,38.6,$445,19.6,,,,,,,,,
+Uzbekistan,"$1,960",72,Moldova,38.5,$455,20.1,,,,,,,,,
+Cameroon,"$1,590",73,Thailand,38.4,$605,26.8,,,,,,,,,
+Kyrgyzstan,"$1,180",73,Benin,37.5,$114,5.2,,,,,,,,,
+Uganda,$840,73,Ghana,37.3,$197,9.0,,,,,,,,,
+Bangladesh,"$2,620",74,Russia,36.9,$967,44.7,,,,,,,,,
+Madagascar,$500,74,Iraq,36.8,$420,19.5,,,,,,,,,
+Mozambique,$480,74,Cambodia,36.6,$129,6.0,,,,,,,,,
+Guatemala,"$4,940",75,Bolivia,36.2,$280,13.2,,,,,,,,,
+Guinea,"$1,010",75,Nicaragua,35.8,$168,8.0,,,,,,,,,
+Iran,"$3,370",75,Indonesia,35.4,$345,16.6,,,,,,,,,
+Tajikistan,"$1,150",75,Mongolia,35.3,$313,15.1,,,,,,,,,
+Central Africa,$530,76,Suriname,35.0,$370,18.0,,,,,,,,,
+Lebanon,"$3,450",76,Vietnam,34.4,$297,14.7,,,,,,,,,
+Nigeria,"$2,100",76,Turkey,34.4,$819,40.6,,,,,,,,,
+Cambodia,"$1,550",77,Tanzania,34.1,$95,4.7,,,,,,,,,
+Honduras,"$2,540",77,Armenia,33.8,$380,19.2,,,,,,,,,
+Iraq,"$5,040",77,Laos,33.5,$210,10.7,,,,,,,,,
+Zimbabwe,"$1,400",77,Kazakhstan,33.1,$727,37.4,,,,,,,,,
+Eritrea,$600,78,Georgia,32.2,$395,20.9,,,,,,,,,
+Cape Verde,"$3,330",79,Zambia,31.7,$87,4.7,,,,,,,,,
+Congo,"$1,630",79,Tunisia,30.9,$303,16.7,,,,,,,,,
+Chad,$650,80,Sri Lanka,30.4,$318,17.8,,,,,,,,,
+Comoros,"$1,460",80,Bhutan,30.0,$237,13.4,,,,,,,,,
+Haiti,"$1,420",80,Ukraine,29.9,$343,19.6,,,,,,,,,
+Nicaragua,"$2,010",80,Algeria,29.9,$305,17.4,,,,,,,,,
+Sudan,$670,80,Azerbaijan,29.8,$407,23.3,,,,,,,,,
+Burundi,$240,81,India,28.8,$181,10.7,,,,,,,,,
+Congo (Dem. Republic),$580,81,Nepal,28.1,$103,6.2,,,,,,,,,
+Turkmenistan,"$7,220",81,Egypt,27.2,$293,18.3,,,,,,,,,
+Equatorial Guinea,"$5,810",83,Burma,27.0,$95,6.0,,,,,,,,,
+Libya,"$8,430",83,Pakistan,25.8,$125,8.3,,,,,,,,,
+Afghanistan,$500,84,Kyrgyzstan,25.3,$98,6.6,,,,,,,,,
+Yemen,$670,84,Angola,23.0,$148,10.9,,,,,,,,,
+Venezuela,"$13,080",86,Tajikistan,22.8,$96,7.2,,,,,,,,,
+Somalia,$450,87,,,,,,,,,,,,,
+Syria,"$1,170",87,,,,,,,,,,,,,
+South Sudan,$460,89,,,,,,,,,,,,,
